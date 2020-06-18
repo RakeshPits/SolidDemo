@@ -1,0 +1,15 @@
+D:\RAK\Pits\Workshop\Solid\SolidDemo\bin\Debug\netcoreapp3.1\SolidDemo.exe
+D:\RAK\Pits\Workshop\Solid\SolidDemo\bin\Debug\netcoreapp3.1\SolidDemo.deps.json
+D:\RAK\Pits\Workshop\Solid\SolidDemo\bin\Debug\netcoreapp3.1\SolidDemo.runtimeconfig.json
+D:\RAK\Pits\Workshop\Solid\SolidDemo\bin\Debug\netcoreapp3.1\SolidDemo.runtimeconfig.dev.json
+D:\RAK\Pits\Workshop\Solid\SolidDemo\bin\Debug\netcoreapp3.1\SolidDemo.dll
+D:\RAK\Pits\Workshop\Solid\SolidDemo\bin\Debug\netcoreapp3.1\SolidDemo.pdb
+D:\RAK\Pits\Workshop\Solid\SolidDemo\obj\Debug\netcoreapp3.1\SolidDemo.csprojAssemblyReference.cache
+D:\RAK\Pits\Workshop\Solid\SolidDemo\obj\Debug\netcoreapp3.1\SolidDemo.AssemblyInfoInputs.cache
+D:\RAK\Pits\Workshop\Solid\SolidDemo\obj\Debug\netcoreapp3.1\SolidDemo.AssemblyInfo.cs
+D:\RAK\Pits\Workshop\Solid\SolidDemo\obj\Debug\netcoreapp3.1\SolidDemo.dll
+D:\RAK\Pits\Workshop\Solid\SolidDemo\obj\Debug\netcoreapp3.1\SolidDemo.pdb
+D:\RAK\Pits\Workshop\Solid\SolidDemo\obj\Debug\netcoreapp3.1\SolidDemo.genruntimeconfig.cache
+D:\RAK\Pits\Workshop\Solid\SolidDemo\bin\Debug\netcoreapp3.1\Ninject.dll
+D:\RAK\Pits\Workshop\Solid\SolidDemo\obj\Debug\netcoreapp3.1\SolidDemo.csproj.CoreCompileInputs.cache
+D:\RAK\Pits\Workshop\Solid\SolidDemo\obj\Debug\netcoreapp3.1\SolidDemo.csproj.CopyComplete
